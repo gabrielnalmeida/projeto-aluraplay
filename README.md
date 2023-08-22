@@ -18,3 +18,5 @@
 [AluraPlay](https://projeto-aluraplay-fawn.vercel.app/)
 
 ### Possivelmente a parte de inserção de video está sem funcionar devido a forma que foi publicada no vercel 
+
+*Em caso de Interesse em verificar ela funcionando checar o form myalurastudies e dentro da pasta aluraplay lá estará funcionando pelo proprio node*
