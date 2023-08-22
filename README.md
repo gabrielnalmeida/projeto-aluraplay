@@ -17,3 +17,5 @@
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+
+### Possivelmente a parte de inserção de video está sem funcionar devido a forma que foi publicada no vercel 
